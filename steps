@@ -20,3 +20,6 @@ Created views/ Folder with index.ejs
 
 Rendered the Page
 → Used res.render('index') inside a route
+
+---------------------------------------------------------
+
