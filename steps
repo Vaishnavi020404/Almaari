@@ -1,0 +1,22 @@
+DAY 1:
+
+Initialized Project
+→ npm init -y
+
+Installed Packages
+→ npm i express ejs
+
+Required Modules & Created App
+→ require('express'), require('path'), etc.
+
+Started the Server
+→ app.listen(3000, ...)
+
+Set the View Engine
+→ app.set('view engine', 'ejs')
+
+Created views/ Folder with index.ejs
+→ Wrote basic HTML like "Hello World"
+
+Rendered the Page
+→ Used res.render('index') inside a route
